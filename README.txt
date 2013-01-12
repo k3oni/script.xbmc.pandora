@@ -30,5 +30,8 @@ Credits:
  - htpc_guy
 	Skins
 
-- VTWoods
+ - VTWoods
 	Replaced libpandora with the pandora implementation from pithos.
+
+ - spbogie
+	Initial addon development.
