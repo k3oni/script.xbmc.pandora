@@ -1,2 +1,0 @@
-script.xbmc.pandora
-===================
